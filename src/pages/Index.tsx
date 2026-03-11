@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
-import { Shield, Search, FileCheck, Users, CheckCircle, ArrowRight } from "lucide-react";
+import { Shield, Search, FileCheck, Users, CheckCircle, ArrowRight, Briefcase } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Layout from "@/components/Layout";
 import SectionHeading from "@/components/SectionHeading";
