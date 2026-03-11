@@ -22,6 +22,7 @@ const highlights = [
   { icon: FileCheck, title: "Claim Recovery", desc: "We manage all documentation and filings to recover your funds." },
   { icon: Shield, title: "Notary Verification", desc: "Mobile notary services authenticate all required documents." },
   { icon: Users, title: "Full Claim Management", desc: "From discovery to recovery — we handle every step." },
+  { icon: Briefcase, title: "Upfront Legal Costs Covered", desc: "We pay all upfront legal costs and fees on your behalf — including court filing costs and lawyer fees." },
 ];
 
 const Index = () => (
