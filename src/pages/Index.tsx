@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
-import { Shield, Search, FileCheck, Users, CheckCircle, ArrowRight } from "lucide-react";
+import { Shield, Search, FileCheck, Users, CheckCircle, ArrowRight, Briefcase } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Layout from "@/components/Layout";
 import SectionHeading from "@/components/SectionHeading";
@@ -22,6 +22,7 @@ const highlights = [
   { icon: FileCheck, title: "Claim Recovery", desc: "We manage all documentation and filings to recover your funds." },
   { icon: Shield, title: "Notary Verification", desc: "Mobile notary services authenticate all required documents." },
   { icon: Users, title: "Full Claim Management", desc: "From discovery to recovery — we handle every step." },
+  { icon: Briefcase, title: "Upfront Legal Costs Covered", desc: "We pay all upfront legal costs and fees on your behalf — including court filing costs and lawyer fees." },
 ];
 
 const Index = () => (
