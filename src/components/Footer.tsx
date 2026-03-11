@@ -52,7 +52,7 @@ const Footer = () => (
               <Clock className="w-4 h-4 text-gold mt-0.5" />
               <div>
                 <p>Mon–Sat: 10am – 8pm</p>
-                <p>Sun: 1pm – 8pm</p>
+                <p>Sun: Closed</p>
               </div>
             </li>
           </ul>

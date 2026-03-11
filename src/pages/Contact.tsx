@@ -120,7 +120,7 @@ const Contact = () => {
                   <div>
                     <p className="font-medium text-foreground">Office Hours</p>
                     <p className="text-muted-foreground">Mon–Sat: 10am – 8pm</p>
-                    <p className="text-muted-foreground">Sun: 1pm – 8pm</p>
+                    <p className="text-muted-foreground">Sun: Closed</p>
                   </div>
                 </div>
               </div>
