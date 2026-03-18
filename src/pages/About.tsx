@@ -25,7 +25,7 @@ const About = () => (
           animate={{ opacity: 1, y: 0 }}
           className="font-display text-4xl sm:text-5xl font-bold text-gold-light mb-6"
         >
-          About KD & Associates
+          About KD Williams & Associates
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, y: 20 }}
@@ -45,10 +45,10 @@ const About = () => (
         <SectionHeading title="Who We Are" />
         <div className="space-y-5 text-muted-foreground leading-relaxed">
           <p>
-            KD & Associates is a professional firm that audits public records and government databases to identify unclaimed funds owed to private individuals. These funds may be held by government agencies, financial institutions, or other organizations after being forgotten, misdirected, or left unclaimed.
+            KD Williams & Associates is a professional firm that audits public records and government databases to identify unclaimed funds owed to private individuals. These funds may be held by government agencies, financial institutions, or other organizations after being forgotten, misdirected, or left unclaimed. that audits public records and government databases to identify unclaimed funds owed to private individuals. These funds may be held by government agencies, financial institutions, or other organizations after being forgotten, misdirected, or left unclaimed.
           </p>
           <p>
-            We conduct detailed research and auditing of public records to locate legitimate claims and then work directly with individuals to recover the money legally owed to them. To ensure legitimacy and compliance, KD & Associates utilizes Mobile Notary Services to properly verify, identify, and authenticate all required documentation during the claims process.
+            We conduct detailed research and auditing of public records to locate legitimate claims and then work directly with individuals to recover the money legally owed to them. To ensure legitimacy and compliance, We conduct detailed research and auditing of public records to locate legitimate claims and then work directly with individuals to recover the money legally owed to them. To ensure legitimacy and compliance, KD Williams & Associates utilizes Mobile Notary Services to properly verify, identify, and authenticate all required documentation during the claims process. to properly verify, identify, and authenticate all required documentation during the claims process.
           </p>
           <p>
             Our team specializes in recovering funds on behalf of clients — managing the paperwork, verification, and submission process. <strong className="text-foreground">Clients pay nothing upfront.</strong> We operate on a contingency basis, meaning we are only paid if and when the claim is successfully recovered.

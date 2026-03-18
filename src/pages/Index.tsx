@@ -58,7 +58,7 @@ const Index = () => (
           transition={{ duration: 0.7, delay: 0.25 }}
           className="text-gold-light/70 text-lg sm:text-xl max-w-2xl mx-auto mb-10"
         >
-          KD & Associates helps individuals recover unclaimed funds held by government agencies through professional public record audits and verified documentation.
+          KD Williams & Associates helps individuals recover unclaimed funds held by government agencies through professional public record audits and verified documentation. unclaimed funds held by government agencies through professional public record audits and verified documentation.
         </motion.p>
         <motion.div
           initial={{ opacity: 0, y: 20 }}

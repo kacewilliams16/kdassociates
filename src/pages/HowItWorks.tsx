@@ -5,10 +5,10 @@ import { Button } from "@/components/ui/button";
 import Layout from "@/components/Layout";
 
 const steps = [
-  { icon: Search, num: "01", title: "Record Audit", desc: "KD & Associates searches public records and government databases to identify unclaimed funds that may belong to you." },
+  { icon: Search, num: "01", title: "Record Audit", desc: "KD Williams & Associates searches public records and government databases to identify unclaimed funds that may belong to you." },
   { icon: Bell, num: "02", title: "Claim Verification", desc: "If unclaimed funds are found, you are notified and the claim is verified for legitimacy." },
   { icon: FileSignature, num: "03", title: "Documentation", desc: "Mobile Notary Services are used to verify and authenticate all required documents and signatures." },
-  { icon: Send, num: "04", title: "Claim Submission", desc: "KD & Associates files and manages the claim with the proper government agencies on your behalf." },
+  { icon: Send, num: "04", title: "Claim Submission", desc: "KD Williams & Associates files and manages the claim with the proper government agencies on your behalf." },
   { icon: DollarSign, num: "05", title: "Recovery", desc: "Once funds are successfully recovered, you receive your payment. If nothing is recovered, you owe nothing." },
 ];
 

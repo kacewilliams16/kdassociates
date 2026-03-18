@@ -132,7 +132,7 @@ const Contact = () => {
                   <p className="font-display font-semibold text-foreground">Your Trust Matters</p>
                 </div>
                 <p className="text-sm text-muted-foreground leading-relaxed">
-                  KD & Associates operates with full legal compliance. All documentation is notarized and verified. We are committed to transparency in every step of the recovery process.
+                  KD Williams & Associates operates with full legal compliance. All documentation is notarized and verified. We are committed to transparency in every step of the recovery process. All documentation is notarized and verified. We are committed to transparency in every step of the recovery process.
                 </p>
               </div>
             </motion.div>
