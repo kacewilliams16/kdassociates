@@ -45,7 +45,7 @@ const About = () => (
         <SectionHeading title="Who We Are" />
         <div className="space-y-5 text-muted-foreground leading-relaxed">
           <p>
-            KD & Associates is a professional firm that audits public records and government databases to identify unclaimed funds owed to private individuals. These funds may be held by government agencies, financial institutions, or other organizations after being forgotten, misdirected, or left unclaimed.
+            KD Williams & Associates is a professional firm that audits public records and government databases to identify unclaimed funds owed to private individuals. These funds may be held by government agencies, financial institutions, or other organizations after being forgotten, misdirected, or left unclaimed. that audits public records and government databases to identify unclaimed funds owed to private individuals. These funds may be held by government agencies, financial institutions, or other organizations after being forgotten, misdirected, or left unclaimed.
           </p>
           <p>
             We conduct detailed research and auditing of public records to locate legitimate claims and then work directly with individuals to recover the money legally owed to them. To ensure legitimacy and compliance, KD & Associates utilizes Mobile Notary Services to properly verify, identify, and authenticate all required documentation during the claims process.
