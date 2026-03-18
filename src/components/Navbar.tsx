@@ -24,7 +24,7 @@ const Navbar = () => {
             <span className="font-display font-bold text-gold text-lg">KD</span>
           </div>
           <span className="font-display font-bold text-foreground text-lg hidden sm:inline">
-            KD & Associates
+            KD Williams & Associates
           </span>
         </Link>
 

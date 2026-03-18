@@ -60,7 +60,7 @@ const Footer = () => (
       </div>
 
       <div className="border-t border-gold/10 mt-10 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs opacity-60">
-        <p>© {new Date().getFullYear()} KD & Associates. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} KD Williams & Associates. All rights reserved.</p>
         <p>Professional Unclaimed Funds Recovery Services</p>
       </div>
     </div>

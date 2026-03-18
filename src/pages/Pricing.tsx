@@ -7,7 +7,7 @@ import SectionHeading from "@/components/SectionHeading";
 
 const points = [
   "You pay nothing upfront — ever.",
-  "KD & Associates is only paid when funds are successfully recovered.",
+  "KD Williams & Associates is only paid when funds are successfully recovered.",
   "If no funds are recovered, no fee is charged.",
   "Our fee is a percentage of the recovered amount, agreed upon before the process begins.",
   "Full transparency — no hidden costs or surprise charges.",
