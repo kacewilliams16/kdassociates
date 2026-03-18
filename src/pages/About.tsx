@@ -25,7 +25,7 @@ const About = () => (
           animate={{ opacity: 1, y: 0 }}
           className="font-display text-4xl sm:text-5xl font-bold text-gold-light mb-6"
         >
-          About KD & Associates
+          About KD Williams & Associates
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, y: 20 }}
