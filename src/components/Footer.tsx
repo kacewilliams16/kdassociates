@@ -11,7 +11,7 @@ const Footer = () => (
             <div className="w-9 h-9 rounded-md bg-gold/20 border border-gold/30 flex items-center justify-center">
               <span className="font-display font-bold text-gold text-lg">KD</span>
             </div>
-            <span className="font-display font-bold text-gold-light text-lg">KD & Associates</span>
+            <span className="font-display font-bold text-gold-light text-lg">KD Williams & Associates</span>
           </div>
           <p className="text-sm leading-relaxed opacity-80">
             Professional unclaimed funds recovery. We audit public records and government databases to recover what's rightfully yours.
